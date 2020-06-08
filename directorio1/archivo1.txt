@@ -1,3 +1,4 @@
 1 - prueba de insert 1
 2 - se crea branch incxxxxx
 3 - se crea branch incb
+4 - se crea checkout inc4
