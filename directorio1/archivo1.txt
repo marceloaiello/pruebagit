@@ -2,3 +2,4 @@
 2 - se crea branch incxxxxx
 3 - se crea branch incb
 4 - se crea checkout inc4
+6 - se crea checkout en incxxxxxx
